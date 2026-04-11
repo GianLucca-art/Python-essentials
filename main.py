@@ -12,6 +12,7 @@ nome = 'jasmine'
 print(nome, idade, cidade, estado, pais)
 
 cidade = "são paulo"
+estado = "são paulo"
 print(nome, idade, cidade, estado, pais)    
 estado = "são paulo"
 print(nome, idade, cidade, estado, pais)
